@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.deps.json
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.pdb
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Data.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Data.pdb
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.pdb
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.pdb
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.AssemblyInfo.cs
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.csproj.CopyComplete
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Services\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Services.pdb

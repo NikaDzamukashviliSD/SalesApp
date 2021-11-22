@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SalesApp.Infrastructure.Models/1.0.0": {
+        "dependencies": {
+          "SalesApp.Infrastructure.Common": "1.0.0"
+        },
+        "runtime": {
+          "SalesApp.Infrastructure.Models.dll": {}
+        }
+      },
+      "SalesApp.Infrastructure.Common/1.0.0": {
+        "runtime": {
+          "SalesApp.Infrastructure.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalesApp.Infrastructure.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalesApp.Infrastructure.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

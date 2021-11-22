@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.deps.json
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.pdb
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.pdb
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.AssemblyInfo.cs
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.csproj.CopyComplete
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.dll
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Models\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Models.pdb
