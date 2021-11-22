@@ -10,9 +10,9 @@ namespace SalesApp.Infrastructure.Data.Repositories.Repositories
 {
     public class ClientsRepository : IClientsRepository
     {
-        private readonly DbContext _dbContext;
+        private readonly SalesAppDbContext _dbContext;
 
-        public ClientsRepository(DbContext dbContext)
+        public ClientsRepository(SalesAppDbContext dbContext)
         {
             _dbContext = dbContext;
         }

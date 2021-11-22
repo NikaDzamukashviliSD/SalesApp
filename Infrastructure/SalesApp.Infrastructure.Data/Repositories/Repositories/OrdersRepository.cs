@@ -11,9 +11,9 @@ namespace SalesApp.Infrastructure.Data.Repositories.Repositories
 {
     public class OrdersRepository : IOrdersRepository
     {
-        private readonly DbContext _dbContext;
+        private readonly SalesAppDbContext _dbContext;
 
-        public OrdersRepository(DbContext dbContext)
+        public OrdersRepository(SalesAppDbContext dbContext)
         {
             _dbContext = dbContext;
         }

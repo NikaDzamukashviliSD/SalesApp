@@ -11,9 +11,9 @@ namespace SalesApp.Infrastructure.Data.Repositories.Repositories
 {
     public class SellersRepository : ISellersRepository
     {
-        private readonly DbContext _dbContext;
+        private readonly SalesAppDbContext _dbContext;
 
-        public SellersRepository(DbContext dbContext)
+        public SellersRepository(SalesAppDbContext dbContext)
         {
             _dbContext = dbContext;
         }

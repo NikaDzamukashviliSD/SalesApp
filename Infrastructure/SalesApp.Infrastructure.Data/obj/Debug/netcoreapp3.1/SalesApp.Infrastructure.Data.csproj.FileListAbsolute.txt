@@ -9,3 +9,4 @@ C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Data\ob
 C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Data.dll
 C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Data.pdb
 C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Data\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Data.csproj.AssemblyReference.cache
