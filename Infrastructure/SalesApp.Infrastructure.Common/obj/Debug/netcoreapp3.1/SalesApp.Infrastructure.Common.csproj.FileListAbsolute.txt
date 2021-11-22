@@ -1,9 +1,0 @@
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.deps.json
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.dll
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\bin\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.pdb
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.csproj.AssemblyReference.cache
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.AssemblyInfoInputs.cache
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.AssemblyInfo.cs
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.csproj.CoreCompileInputs.cache
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.dll
-C:\Users\pc\source\repos\SalesApp\Infrastructure\SalesApp.Infrastructure.Common\obj\Debug\netcoreapp3.1\SalesApp.Infrastructure.Common.pdb
